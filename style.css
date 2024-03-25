@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
-    background-color: wheat;
+    background-color: #133c58;
 }
 
 p{
@@ -41,7 +41,7 @@ table, th, td {
 }
 
 th {
-    background-color: wheat; 
+    background-color: #093b70; 
 }
 
 
@@ -51,7 +51,7 @@ th {
     border: 2px solid black;
     padding: 20px;
     text-align: center;
-    background-color: white;
+    background-color: #256088;
 }
 
 button {
@@ -63,7 +63,6 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 40px auto;
-    cursor: pointer;
+    margin: auto;
 }
 
